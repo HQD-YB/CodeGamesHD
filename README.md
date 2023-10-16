@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CodeGamesHD
-- 👀 I’m interested in gaming; Minecraft Defly ect., and coding.
+- 👋 Hi, I’m @DP.HQD.CB
+- 👀 I’m interested in gaming, and coding.
 - 🌱 I’m currently learning Scratch and Javascript
 
 <!---
